@@ -1,0 +1,9 @@
+{
+    "vlm_api_key": "",
+    "vlm_api_url": "",
+    "markdown_api_key": "",
+    "markdown_api_url": "",
+    "input_pdf": "./input_pdf",
+    "output_root": "./output"
+  }
+  
